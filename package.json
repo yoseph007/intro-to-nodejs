@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.13.0",
+  "description": "Simple web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoseph007/intro-to-nodejs.git"
+  },
+  "author": "Yoseph Andemichael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoseph007/intro-to-nodejs/issues"
+  },
+  "homepage": "https://github.com/yoseph007/intro-to-nodejs#readme"
+}
